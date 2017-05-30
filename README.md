@@ -1,6 +1,6 @@
 # Naver Text To Speech Service at python 2.X
 
-You can get the mp3 file path(unique) as a result by giving some text as input.
+You can get the mp3 file path(timestamp) as a result by giving some text as input.
 
 ``` python
 import tts
