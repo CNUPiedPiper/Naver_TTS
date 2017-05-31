@@ -2,6 +2,14 @@
 
 You can get the mp3 file path(timestamp) and sound of text(Korean) as a result by giving some text as input.
 
+## Dependency
+```
+pip2 install pydub
+pip2 install pygame
+apt-get install ffmpeg libavcodec-extra-53
+```
+
+## Running a demo
 ``` python
 import tts
 
