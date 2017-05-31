@@ -12,8 +12,6 @@ class tts:
     def __init__(self):
         self.client_id = "YOUR_CLIENT_ID"
 	self.client_secret = "YOUR_CLIENT_SECRET"
-        self.client_id = "_slnCVOnBr5DTve8oVP_"
-        self.client_secret ="Kw3rkrP5EO"
 
     def play_sound(self, file_path):
         mixer.init(frequency=16000, buffer=24000)
