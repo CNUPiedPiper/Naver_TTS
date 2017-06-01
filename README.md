@@ -1,12 +1,12 @@
 # Naver Text To Speech Service at python 2.X
 
-You can get the mp3 file path(timestamp) and sound of text(Korean) as a result by giving some text as input.
+You can get the mp3 file and sound of text(Korean) as a result by giving some text as input.
 
 ## Dependency
 ```
 pip2 install pydub
 pip2 install pygame
-apt-get install ffmpeg libavcodec-extra-53
+apt-get install ffmpeg libavcodec-extra-56
 ```
 
 ## Running a demo
